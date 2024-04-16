@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5d11dc3-4536-4117-98cf-abaa8f28ea78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iesmz/tests/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iesmz/tests/MoneyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/iesmz/tests/TipoMoneda.java" afterDir="false" />
+    <list default="true" id="d5d11dc3-4536-4117-98cf-abaa8f28ea78" name="Changes" comment="Metodo, Test1-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenUd6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenUd6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExamenUd6/es/iesmz/tests/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExamenUd6/es/iesmz/tests/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExamenUd6/es/iesmz/tests/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExamenUd6/es/iesmz/tests/MoneyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iesmz/tests/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iesmz/tests/Money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iesmz/tests/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iesmz/tests/MoneyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,8 +63,8 @@
       <recent name="es.iesmz.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoneyTest.change1">
-    <configuration name="MoneyTest.change1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MoneyTest">
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ExamenUd6" />
       <extension name="coverage">
         <pattern>
@@ -69,13 +74,28 @@
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.tests" />
       <option name="MAIN_CLASS_NAME" value="es.iesmz.tests.MoneyTest" />
-      <option name="METHOD_NAME" value="change1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.change5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExamenUd6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.tests" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.tests.MoneyTest" />
+      <option name="METHOD_NAME" value="change5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTest.change2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MoneyTest.change7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ExamenUd6" />
       <extension name="coverage">
         <pattern>
@@ -85,7 +105,39 @@
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.tests" />
       <option name="MAIN_CLASS_NAME" value="es.iesmz.tests.MoneyTest" />
-      <option name="METHOD_NAME" value="change2" />
+      <option name="METHOD_NAME" value="change7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.change8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExamenUd6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.tests" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.tests.MoneyTest" />
+      <option name="METHOD_NAME" value="change8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.change9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExamenUd6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.tests" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.tests.MoneyTest" />
+      <option name="METHOD_NAME" value="change9" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,8 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MoneyTest.change1" />
-        <item itemvalue="JUnit.MoneyTest.change2" />
+        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="JUnit.MoneyTest.change5" />
+        <item itemvalue="JUnit.MoneyTest.change9" />
+        <item itemvalue="JUnit.MoneyTest.change8" />
+        <item itemvalue="JUnit.MoneyTest.change7" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +162,14 @@
       <option name="presentableId" value="Default" />
       <updated>1713262403070</updated>
     </task>
+    <task id="LOCAL-00001" summary="Metodo, Test1-2">
+      <created>1713265742300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265742300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,5 +182,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Metodo, Test1-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metodo, Test1-2" />
   </component>
 </project>
